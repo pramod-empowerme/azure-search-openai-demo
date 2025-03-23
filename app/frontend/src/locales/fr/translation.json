@@ -1,6 +1,6 @@
 {
-    "pageTitle": "Azure OpenAI + AI Search",
-    "headerTitle": "Azure OpenAI + AI Search",
+    "pageTitle": "EmpowerMe AI Assistant",
+    "headerTitle": "EmpowerMe AI Assistant",
     "chat": "Chat",
     "qa": "Posez une question",
     "login": "Connexion",
@@ -11,7 +11,7 @@
         "openChatHistory": "Ouvrir l'historique du chat",
         "noHistory": "Pas d'historique dans ce chat",
         "deleteModalTitle": "Supprimer l'historique du chat",
-        "deleteModalDescription": "Cette action est irréversible. Supprimer l'historique de ce chat ?",
+        "deleteModalDescription": "Cette action est irréversible. Supprimer l'historique de ce chat ?",
         "deleteLabel": "Supprimer",
         "cancelLabel": "Annuler",
         "today": "Aujourd'hui",
@@ -32,22 +32,22 @@
         "errorDeleting": "Erreur lors de la suppression.",
         "fileDeleted": "Fichier supprimé"
     },
-    "developerSettings": "Paramètres développeur",
+    "developerSettings": "Paramètres de l'assistant",
 
-    "chatEmptyStateTitle": "Discutez avec vos données",
-    "chatEmptyStateSubtitle": "Demandez n'importe quoi ou essayez un exemple",
+    "chatEmptyStateTitle": "EmpowerMe - Un assistant IA de confiance",
+    "chatEmptyStateSubtitle": "Posez des questions sur les règlements municipaux ou essayez un exemple",
     "defaultExamples": {
-        "1": "Qu'est-ce qui est inclus dans mon plan Northwind Health Plus qui n'est pas dans le standard?",
-        "2": "Qu'arrive-t-il lors d'un examen de performance?",
-        "3": "Qu'est-ce qu'un Product Manager fait?",
-        "placeholder": "Tapez une nouvelle question (par exemple, mon plan couvre-t-il les examens oculaires annuels?)"
+        "1": "Quelles sont les étapes pour demander une licence commerciale à Milton ?",
+        "2": "Ai-je besoin d'un permis municipal de Milton pour construire un sous-sol ?",
+        "3": "Comment demander un permis de construire ?",
+        "placeholder" : "Saisissez une nouvelle question (par exemple, à qui dois-je m'adresser pour la lutte contre le bruit dans mon quartier ?)"
     },
-    "askTitle": "Demandez à vos données",
+    "askTitle": "Posez votre requête",
     "gpt4vExamples": {
-        "1": "Comparez l'impact des taux d'intérêt et du PIB sur les marchés financiers.",
-        "2": "Quelle est la tendance prévue pour l'indice S&P 500 au cours des cinq prochaines années? Comparez-le aux performances passées de l'S&P 500",
-        "3": "Pouvez-vous identifier une corrélation entre les prix du pétrole et les tendances du marché boursier?",
-        "placeholder": "Exemple: Mon plan couvre-t-il les examens oculaires annuels?"
+        "1" : "Quelles sont les étapes pour demander une licence commerciale à Milton ?",
+        "2" : " Ai-je besoin d'un permis municipal pour construire un sous-sol ? ",
+        "3" : " Comment demander un permis de construire ? ",
+        "placeholder": "Tapez une nouvelle question (par exemple, à qui dois-je m'adresser pour le contrôle du bruit dans ma région?)"
     },
     "generatingAnswer": "Génération de la réponse",
     "citationWithColon": "Citation:",
@@ -91,7 +91,6 @@
         "useSemanticRanker": "Utiliser le reclasseur sémantique",
         "useSemanticCaptions": "Utiliser les titres sémantiques",
         "useSuggestFollowupQuestions": "Suggérer des questions de suivi",
-        "useQueryRewriting": "Utilisez la réécriture des requêtes pour la récupération",
         "useGPT4V": "Utiliser le modèle GPT Vision",
         "gpt4VInput": {
             "label": "Entrées du modèle GPT Vision",
